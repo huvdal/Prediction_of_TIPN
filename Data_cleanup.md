@@ -6,6 +6,11 @@ editor_options:
 
 # Clean up data for building and testing logistic regression models for prediction of TIPN
 
+The following is a Rmarkdown tutorial for running similar models found in the article:
+
+Engvall, K., Uvdal, H., Björn, N., Åvall-Lundqvist, E., & Gréen, H. (2024). Prediction models of persistent taxane-induced peripheral neuropathy among breast cancer survivors using whole-exome sequencing. NPJ Precision Oncology, 8(1). https://doi.org/10.1038/s41698-024-00594-x
+
+
 ## Load SNVs and gene results
 
 To be able to perform both building and testing we need a lot of data,
